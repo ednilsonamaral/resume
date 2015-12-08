@@ -56,36 +56,36 @@ G&P Projetos e Sistemas
 > Aqui continuei no mesmo projeto da PRODESP, do trabalho anterior. Houve apenas uma mudança de empresa.
 
 
-**Técnico de Suporte de TI Pleno 2** - [JAN/2014 ~ NOV/2014]  
+**Técnico de Suporte de TI Pleno 2** - *[JAN/2014 ~ NOV/2014]*  
 Asyst International + Rhealeza Informática  
 > Implantação de Novos Projetos de TI nos novos Postos Poupatempo no Estado de São Paulo, pela PRODESP. Treinamento de novos Técnicos aos sistemas e normas de TI dentro do Poupatempo. Suporte de primeiro e segundo nível. Instalação, configuração e monitoramento de Sistemas.
 
 
-**Auxiliar de Secretaria** - [DEZ/2013 ~ JAN/2014]  
+**Auxiliar de Secretaria** - *[DEZ/2013 ~ JAN/2014]*  
 Colégio Leme Presbiteriano de Itapeva  
 > Atendimento ao público; trabalho e monitoramento de sistemas ERP; abertura e fechamento de caixa; desenvolvimento e fechamento de Ficha 100; criação e manutenção de planilhas de RH; entre outras atividades.
 
 
-**Empreendimento (startup) FAIL** - [NOV/2012 ~ NOV/2013]  
+**Empreendimento (startup) FAIL** - *[NOV/2012 ~ NOV/2013]*  
 > Esse periodo, junto com mais dois colegas, tentamos abrir uma startup de desenvolvimento de software. Porém, não sabiamos nada sobre empreendedorimos, apenas sobre PHP. E pensavamos que o sistema deveria estar 100%, e não sabiamos o que era um simples MVP. Resultado? Fechamos as portas por falta de experiência. Fica aqui, os erros aprendidos e nunca mais serão cometidos!
 
 
-**Estagiário de Sistemas de Informação** - [OUT/2010 ~ OUT/2012]  
+**Estagiário de Sistemas de Informação** - *[OUT/2010 ~ OUT/2012]*  
 Secretaria Municipal da Educação de Itapeva  
 > Atendimento ao público; desenvolvimento de soluções ERP voltadas para a Gestão Escolar; suporte de primeiro nível; treinamento a novos usuários de soluções ERP.
 
 
-**Assistente Administrativo** - [MAR/2010 ~ JUN/2010]  
+**Assistente Administrativo** - *[MAR/2010 ~ JUN/2010]*  
 FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva  
 > Atendimento ao público; trabalho e monitoramento de sistemas ERP; abertura e fechamento de caixa; recebimento de taxas e boletos; criação e manutenção de planilhas financeiras e analiticas; entre outras atividades.
 
 
-**Técnico de Infórmática** - [AGO/2008 ~ FEV/2010]  
+**Técnico de Infórmática** - *[AGO/2008 ~ FEV/2010]*  
 FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva  
 > Monitoramento e atualizações de sistemas ERP; montagem e manutenção de computadores e servidores; monitoramento e atualizações de infraestrutura e redes; treinamento de novas ferramentas para discentes e docentes; manutenção do site da instituição, desenvolvido com Joomla!; entre outras atividades.
 
 
-**Auxiliar de Secretaria** - [MAR/2008 ~ JUL/2008]  
+**Auxiliar de Secretaria** - *[MAR/2008 ~ JUL/2008]*  
 FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva  
 > Atendimento ao público; trabalho com sistemas ERP; emissão de declarações e históricos escolares; criação e manutenção de planilhas acadêmicas; entre outras atividades.
 
@@ -108,4 +108,4 @@ CENAIC - Itapeva
 * Planejamento Estratégico, pela Endeavor;  
 * MEI - Micro Empreendedor Individual, pelo EaD Sebrae;  
 * [Be MEAN](https://github.com/Webschool-io/be-mean-instagram) (em andamento);  
-* Javascritp Road Trip, pela CodeSchool.
+* JavaScript Road Trip, pela CodeSchool.
