@@ -23,9 +23,8 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * HTML5  
 * CSS3  
 * Mobile First (RWD)  
-* Básico de Stylus  
-* JavaScript  
-* Git  
+* JavaScript / jQuery  
+* Git / GitHub / GitHub Pages  
 * PHP  
 * MySQL  
 * MongoDB  
@@ -34,6 +33,7 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * [ionic](ionicframework.com) (estudando demais essa lindeza de framework)  
 * Bootstrap  
 * Jekyll (básico)  
+* Agile  
 * Scrum, Kanban  
 * ITIL  
 * Lean Canvas  
