@@ -41,7 +41,8 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * Debian s2  
 * Servidores de Arquivos, Squid, Samba - Linux :)  
 * AD (Windows)  
-* OpenProj e Microsoft Project
+* OpenProj e Microsoft Project  
+* Adobe Fireworks (pois é) / Adobe Photoshop
 
 
 ## Experiências Profissionais  
