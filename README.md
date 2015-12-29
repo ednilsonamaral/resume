@@ -20,8 +20,8 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 
 ## Habilidades  
 
-* HTML5  
-* CSS3  
+* HTML  
+* CSS / SASS (Básico)  
 * Mobile First (RWD)  
 * JavaScript / jQuery  
 * Git / GitHub / GitHub Pages  
