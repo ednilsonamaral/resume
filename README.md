@@ -24,6 +24,7 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * CSS / SASS (Básico)  
 * Mobile First (RWD)  
 * JavaScript / jQuery  
+* Gulp (básico)  
 * Git / GitHub / GitHub Pages  
 * PHP  
 * MySQL  
