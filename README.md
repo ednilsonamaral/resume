@@ -27,7 +27,7 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * Gulp (básico)  
 * Git / GitHub / GitHub Pages  
 * PHP  
-* MySQL  
+* MySQL / SQLite (básico)  
 * MongoDB  
 * SQL Server  
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram) (estudando demais essa lindeza de stack)  
