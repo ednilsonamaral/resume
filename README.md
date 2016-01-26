@@ -1,7 +1,7 @@
 # Ednilson Amaral
 
 
-**Localização:** Itapeva - SP - Brasil  
+**Localização:** Itapeva - SP - Brasil *(tenho disponibilidade para me mudar)*  
 **Telefone:** +55 (15) 9-9674-0359  
 **Blog:** [ednilsonamaral.github.io](http://ednilsonamaral.github.io)  
 **Email:** [ednilsonamaral.ti@gmail.com](mailto:ednilsonamaral.ti@gmail.com)  
@@ -26,10 +26,10 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * HTML  
 * CSS / SASS (Básico)  
 * Mobile First (RWD)  
-* JavaScript / jQuery (básico) / AngularJS (básico)  
+* JavaScript / AngularJS (básico)  
 * Gulp (básico)  
 * Git / GitHub / GitHub Pages  
-* PHP  
+* PHP (CRUD básico, loops e algumas funções básicas)  
 * MySQL / SQLite (básico)  
 * MongoDB  
 * SQL Server  
@@ -53,7 +53,7 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 
 > O inicio da minha carreira profissional, atuei (formalmente falando) na área de Suporte de TI. Já cheguei a desenvolver alguns projetos web como freelancer, mas nada em agências.  
 >  
-> Hoje, busco uma oportunidade de desenvolver front-end, até sonho em full stack, seja freela ou em agência, de modo formal. O que quero é continuar na área de desenvolvimento web.
+> Hoje, busco uma oportunidade como desenvolvedorr front-end, até sonho em full stack, seja freela ou em agência, CLT, de modo formal. O que quero é continuar na área de desenvolvimento web.
 
 
 **Analista de Suporte I** - *[NOV/2014 ~ OUT/2015]*  
