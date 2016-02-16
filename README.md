@@ -30,23 +30,15 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * Gulp (básico)  
 * Git / GitHub / GitHub Pages  
 * PHP (CRUD básico, loops e algumas funções básicas)  
-* MySQL / SQLite (básico)  
-* MongoDB  
-* SQL Server  
+* MySQL / SQLite (básico) / MongoDB / SQL Server  
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram) (estudando demais essa lindeza de stack)  
 * [ionic](ionicframework.com) (estudando demais essa lindeza de framework)  
 * Bootstrap  
 * Jekyll (básico)  
-* Agile  
-* Scrum, Kanban  
+* Agile / Scrum / Kanban  
 * ITIL  
-* Lean Canvas  
-* Bussiness Model Canvas  
+* Lean Canvas / Bussiness Model Canvas  
 * Debian s2  
-* Servidores de Arquivos, Squid, Samba - Linux :)  
-* AD (Windows)  
-* OpenProj e Microsoft Project  
-* Adobe Fireworks (pois é) / Adobe Photoshop
 
 
 ## Experiências Profissionais  
@@ -114,3 +106,4 @@ CENAIC - Itapeva
 * MEI - Micro Empreendedor Individual, pelo EaD Sebrae;  
 * [Be MEAN](https://github.com/Webschool-io/be-mean-instagram) (em andamento);  
 * JavaScript Road Trip, pela CodeSchool.
+
