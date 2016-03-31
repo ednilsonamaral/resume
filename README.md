@@ -33,10 +33,9 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * MySQL / SQLite (básico) / MongoDB / SQL Server  
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram) (estudando demais essa lindeza de stack)  
 * [ionic](ionicframework.com) (estudando demais essa lindeza de framework)  
-* Bootstrap  
-* Jekyll (básico)  
+* Bootstrap / Jekyll (básico) / Jade (básico)  
 * Agile / Scrum / Kanban  
-* ITIL  
+* ITIL (conhecimentos básicos, Foundation)  
 * Lean Canvas / Bussiness Model Canvas  
 * Debian s2  
 
@@ -45,7 +44,12 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 
 > O inicio da minha carreira profissional, atuei (formalmente falando) na área de Suporte de TI. Já cheguei a desenvolver alguns projetos web como freelancer, mas nada em agências.  
 >  
-> Hoje, busco uma oportunidade como desenvolvedorr front-end, até sonho em full stack, seja freela ou em agência, CLT, de modo formal. O que quero é continuar na área de desenvolvimento web.
+> Atualmente, atuo como desenvolvedor front-end, quem sabe um dia um *full stack*.
+
+
+**Desenvolvedor Front-End Junior** - *[FEV/2016 ~ atual]*  
+EWTI  
+> Desenvolvimento de aplicações web, com foco no Front-End, utilizando HTML, CSS, JavaScript. Também, desenvolvimento de layouts utilizando Bootstrap e Jade, implementações de layout em projetos OpenCart e criação de animações em HTML e CSS.
 
 
 **Analista de Suporte I** - *[NOV/2014 ~ OUT/2015]*  
@@ -106,4 +110,3 @@ CENAIC - Itapeva
 * MEI - Micro Empreendedor Individual, pelo EaD Sebrae;  
 * [Be MEAN](https://github.com/Webschool-io/be-mean-instagram) (em andamento);  
 * JavaScript Road Trip, pela CodeSchool.
-
