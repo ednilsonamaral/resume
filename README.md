@@ -49,7 +49,7 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 
 **Desenvolvedor Front-End Junior** - *[FEV/2016 ~ atual]*  
 EWTI  
-> Desenvolvimento de aplicações web, com foco no Front-End, utilizando HTML, CSS, JavaScript. Também, desenvolvimento de layouts utilizando Bootstrap e Jade, implementações de layout em projetos OpenCart e criação de animações em HTML e CSS.
+> Desenvolvimento de aplicações web, com foco no Front-End, utilizando HTML, CSS, JavaScript. Também, desenvolvimento de layouts utilizando Bootstrap e Jade, implementações de layout em projetos de ecommerce utilizando OpenCart e criação de animações em HTML e CSS.
 
 
 **Analista de Suporte I** - *[NOV/2014 ~ OUT/2015]*  
