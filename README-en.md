@@ -37,7 +37,7 @@ I'm always studying new things, new technologies, and I never give up of study! 
 * Static Generators - Jekyll (*basic*)  
 * Template Engine - Jade (*basic*)  
 * CSS Preprocessors - SASS (*basic*) / Stylus (*basic*)  
-* Mobile First  
+* Mobile First / Responsive Web Design  
 * Atomic Design (*basic*)  
 * JS Task Runners - Gulp (*basic*) / NPM Scripts (*basic*)  
 * Unit Tests - TDD (*basic*)
@@ -45,7 +45,7 @@ I'm always studying new things, new technologies, and I never give up of study! 
 
 ### Back End  
 
-* PHP (*basic CRUD, some bascis functions, a little bit of Object-oriented programming with PHP*)  
+* PHP (*basic CRUD, some basics functions, a little bit of Object-oriented programming with PHP*)  
 * NodeJS (*basic, I started studying and practicing few months ago*)
 
 
@@ -80,11 +80,11 @@ I'm always studying new things, new technologies, and I never give up of study! 
 
 ### IT Service Management (ITSM)  
 
-* ITIL Foundation (*not certificate, only basic fundaments and features*)
+* ITIL Foundation (*not certificate, only basic fundamentals and features*)
 
 
 ### Operation Systems  
 
 * Unix commands  
-* Linux (*Mint, Ubuntu, Debian :heart:*)  
-* Windows (*since Windows ME until the last versions, include Windows Server for AD and proxy*)
+* Linux (*Mint, Ubuntu, including Ubuntu Server for Squid and Samba tools, Debian :heart:*)  
+* Windows (*since Windows ME until the last versions, including Windows Server for AD and proxy tools*)
