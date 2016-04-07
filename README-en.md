@@ -1,7 +1,7 @@
 # Ednilson Amaral
 
 
-**Location:** Itapeva - SP - Brasil  
+**Location:** Itapeva - SP - Brazil  
 **Phone Number:** +55 (15) 9-9674-0359  
 **Blog:** [ednilsonamaral.github.io](http://ednilsonamaral.github.io)  
 **Email:** [ednilsonamaral.ti@gmail.com](mailto:ednilsonamaral.ti@gmail.com)  
