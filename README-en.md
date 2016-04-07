@@ -19,4 +19,72 @@ I've very facility to make new friends and love to work and collaborate with tea
 
 I'm always studying new things, new technologies, and I never give up of study! After all, what we learning is the only capital what we never lose, nobody can take this of us!
 
-## Skills
+
+## Skills  
+
+### Front End  
+
+* HTML/HTML5  
+* CSS/CSS3  
+* JavaScript (*intermediate*)  
+
+#### Tools, Frameworks, Stacks and Front End Methodologies  
+
+* AngularJS (*basic*)  
+* [MEAN](https://github.com/Webschool-io/be-mean-instagram) (*studying a lot this prettiness stack*)  
+* [ionic](ionicframework.com) (*studying a lot this prettiness framework*)  
+* CSS Frameworks - Bootstrap (*basic*) / Jeet (*basic*)  
+* Static Generators - Jekyll (*basic*)  
+* Template Engine - Jade (*basic*)  
+* CSS Preprocessors - SASS (*basic*) / Stylus (*basic*)  
+* Mobile First  
+* Atomic Design (*basic*)  
+* JS Task Runners - Gulp (*basic*) / NPM Scripts (*basic*)  
+* Unit Tests - TDD (*basic*)
+
+
+### Back End  
+
+* PHP (*basic CRUD, some bascis functions, a little bit of Object-oriented programming with PHP*)  
+* NodeJS (*basic, I started studying and practicing few months ago*)
+
+
+### Databases - Relational and NoSQL  
+
+* MySQL (*intermediate*)  
+* SQLite (*basic*)  
+* MongoDB (*basic*) / Mongoose (*basic*)  
+* SQL Server and SQL Express (*both basic*)
+
+
+### Version Control Systems  
+
+* Git  
+* GitHub  
+* GitHub Pages  
+* BitBucket
+
+
+### Agile Methodologies  
+
+* Scrum (*basic*)  
+* Extreme Programming (*basic*)  
+* Kanban
+
+
+### Business and Startup Knowledge  
+
+* Lean Canvas  
+* Business Model Canvas
+
+
+### IT Service Management (ITSM)  
+
+* ITIL Foundation (*not certificate, only basic fundaments and features*)
+
+
+### Operation Systems  
+
+* Unix commands  
+* Linux (*Mint, Ubuntu, Debian :heart:*)  
+* Windows (*since Windows ME until the last versions, include Windows Server for AD and proxy*)
