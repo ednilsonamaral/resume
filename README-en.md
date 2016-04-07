@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a front end developer that loves coding. I'm not so god but, I'm not so bad! And the most attractive for me are projects with biggest challenges, if what I don't know or I've anything difficulty, I going to my friend Google get help, learning with best practices, and always learning new things, new technologies.  
+I'm a front end developer that loves coding. I'm not so god, but I'm not so bad! And the most attractive for me are projects with biggest challenges, if what I don't know or I've anything difficulty, I going to my friend Google get help, learning with best practices, and always learning new things, new technologies.  
 
 I've very facility to make new friends and love to work and collaborate with teams. And nothing better what work with teams and share our knowledge and experience in favor of always evolve as people and professional.  
 
