@@ -1,8 +1,8 @@
 # Ednilson Amaral
 
 
-**Localização:** Itapeva - SP - Brasil  
-**Telefone:** +55 (15) 9-9674-0359  
+**Location:** Itapeva - SP - Brazil  
+**Phone Number:** +55 (15) 9-9674-0359  
 **Blog:** [ednilsonamaral.github.io](http://ednilsonamaral.github.io)  
 **Email:** [ednilsonamaral.ti@gmail.com](mailto:ednilsonamaral.ti@gmail.com)  
 **Skype:** ednilson_amaral  
@@ -11,102 +11,151 @@
 **Facebook:** [https://www.facebook.com/ednilson.amaral](https://www.facebook.com/ednilson.amaral)  
 **Twitter:** [https://twitter.com/ednilsonaamaral](https://twitter.com/ednilsonaamaral)
 
+## About Me
 
-## Sobre mim  
+I'm a front end developer that loves coding. I'm not so god, but I'm not so bad! And the most attractive for me are projects with biggest challenges, if what I don't know or I've anything difficulty, I going to my friend Google get help, learning with best practices, and always learning new things, new technologies.  
 
-Sou um desenvolvedor front-end, bem meia boca por sinal, amo codar! E o que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.  
+I've very facility to make new friends and love to work and collaborate with teams. And nothing better what work with teams and share our knowledge and experience in favor of always evolve as people and professional.  
 
-Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, nada melhor que trabalhar em equipe para compartilharmos conhecimento e experiências em prol de sempre evoluirmos como pessoa e profissionais.  
-
-Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
-
-
-## Habilidades  
-
-* HTML  
-* CSS / SASS (Básico)  
-* Mobile First (RWD)  
-* JavaScript / AngularJS (básico)  
-* Gulp (básico)  
-* Git / GitHub / GitHub Pages  
-* PHP (CRUD básico, loops e algumas funções básicas)  
-* MySQL / SQLite (básico) / MongoDB / SQL Server  
-* [MEAN](https://github.com/Webschool-io/be-mean-instagram) (estudando demais essa lindeza de stack)  
-* [ionic](ionicframework.com) (estudando demais essa lindeza de framework)  
-* Bootstrap / Jekyll (básico) / Jade (básico)  
-* Agile / Scrum / Kanban  
-* ITIL (conhecimentos básicos, Foundation)  
-* Lean Canvas / Bussiness Model Canvas  
-* Debian s2  
+I'm always studying new things, new technologies, and I never give up of study! After all, what we learning is the only capital what we never lose, nobody can take this of us!
 
 
-## Experiências Profissionais  
+## Skills  
 
-> O inicio da minha carreira profissional, atuei (formalmente falando) na área de Suporte de TI. Já cheguei a desenvolver alguns projetos web como freelancer, mas nada em agências.  
->  
-> Atualmente, atuo como desenvolvedor front-end, quem sabe um dia um *full stack*.
+### Front End  
 
+* HTML/HTML5  
+* CSS/CSS3  
+* JavaScript (*intermediate*)  
 
-**Desenvolvedor Front-End Junior** - *[FEV/2016 ~ atual]*  
-EWTI  
-> Desenvolvimento de aplicações web, com foco no Front-End, utilizando HTML, CSS, JavaScript. Também, desenvolvimento de layouts utilizando Bootstrap e Jade, implementações de layout em projetos de ecommerce utilizando OpenCart e criação de animações em HTML e CSS.
+#### Tools, Frameworks, Stacks and Front End Methodologies  
 
-
-**Analista de Suporte I** - *[NOV/2014 ~ OUT/2015]*  
-G&P Projetos e Sistemas  
-> Aqui continuei no mesmo projeto da PRODESP, do trabalho anterior. Houve apenas uma mudança de empresa.
-
-
-**Técnico de Suporte de TI Pleno 2** - *[JAN/2014 ~ NOV/2014]*  
-Asyst International + Rhealeza Informática  
-> Implantação de Novos Projetos de TI nos novos Postos Poupatempo no Estado de São Paulo, pela PRODESP. Treinamento de novos Técnicos aos sistemas e normas de TI dentro do Poupatempo. Suporte de primeiro e segundo nível. Instalação, configuração e monitoramento de Sistemas.
-
-
-**Auxiliar de Secretaria** - *[DEZ/2013 ~ JAN/2014]*  
-Colégio Leme Presbiteriano de Itapeva  
-> Atendimento ao público; trabalho e monitoramento de sistemas ERP; abertura e fechamento de caixa; desenvolvimento e fechamento de Ficha 100; criação e manutenção de planilhas de RH; entre outras atividades.
+* AngularJS (*basic*)  
+* [MEAN](https://github.com/Webschool-io/be-mean-instagram) (*studying a lot this prettiness stack*)  
+* [ionic](ionicframework.com) (*studying a lot this prettiness framework*)  
+* CSS Frameworks - Bootstrap (*basic*) / Jeet (*basic*)  
+* Static Generators - Jekyll (*basic*)  
+* Template Engine - Jade (*basic*)  
+* CSS Preprocessors - SASS (*basic*) / Stylus (*basic*)  
+* Mobile First / Responsive Web Design  
+* Atomic Design (*basic*)  
+* JS Task Runners - Gulp (*basic*) / NPM Scripts (*basic*)  
+* Unit Tests - TDD (*basic*)
 
 
-**Empreendimento (startup) FAIL** - *[NOV/2012 ~ NOV/2013]*  
-> Esse periodo, junto com mais dois colegas, tentamos abrir uma startup de desenvolvimento de software. Porém, não sabiamos nada sobre empreendedorimos, apenas sobre PHP. E pensavamos que o sistema deveria estar 100%, e não sabiamos o que era um simples MVP. Resultado? Fechamos as portas por falta de experiência. Fica aqui, os erros aprendidos e nunca mais serão cometidos!
+### Back End  
+
+* PHP (*basic CRUD, some basics functions, a little bit of Object-oriented programming with PHP*)  
+* NodeJS (*basic, I started studying and practicing few months ago*)
 
 
-**Estagiário de Sistemas de Informação** - *[OUT/2010 ~ OUT/2012]*  
+### Databases - Relational and NoSQL  
+
+* MySQL (*intermediate*)  
+* SQLite (*basic*)  
+* MongoDB (*basic*) / Mongoose (*basic*)  
+* SQL Server and SQL Express (*both basic*)
+
+
+### Version Control Systems  
+
+* Git  
+* GitHub  
+* GitHub Pages  
+* BitBucket
+
+
+### Agile Methodologies  
+
+* Scrum (*basic*)  
+* Extreme Programming (*basic*)  
+* Kanban
+
+
+### Business and Startup Knowledge  
+
+* Lean Canvas  
+* Business Model Canvas
+
+
+### IT Service Management (ITSM)  
+
+* ITIL Foundation (*not certificate, only basic fundamentals and features*)
+
+
+### Operation Systems  
+
+* Unix commands  
+* Linux (*Mint, Ubuntu, including Ubuntu Server for Squid and Samba tools, Debian :heart:*)  
+* Windows (*since Windows ME until the last versions, including Windows Server for AD and proxy tools*)
+
+
+## Work Experience  
+
+I started my career with IT Technical Support. At the same time, I developed some web projects how freelancer, but never in agencies.  
+
+Currently, I work as front end developer, and I dream to work in the future as full stack developer.
+
+
+**Junior Front End Developer** - *[February 20016 ~ Present]*  
+[EWTI](http://www.ewti.com.br/)  
+> Developing new web solutions, focused in frontend, using HTML, CSS and JS. Also developing layouts using CSS Frameworks how Bootstrap and Jeet, implementation layouts in ecommerce projects using OpenCart how framework and developing animations with HTML and CSS.
+
+
+**IT Support Analyst** - *[November 2014 ~ October 2015]*  
+[G&P Projetos e Sistemas](http://www.gpnet.com.br/)  
+> Here, I continued on the same project of last job, with the [PRODESP](http://www.prodesp.sp.gov.br/). Only changed the employer.
+
+
+**IT Technical Support** - *[January 2014 ~ November 2014]*  
+[Asyst International + Rhealeza Informática](http://www.algartech.com/)  
+> I worked outsourced for the [PRODESP](http://www.prodesp.sp.gov.br/), with implantation of new IT projects of the program of government of Sao Paulo, the [Poupatempo](https://www.poupatempo.sp.gov.br/), in cities across the state. I acted as a teacher for new IT Technical Support of these new [Poupatempo](https://www.poupatempo.sp.gov.br/). Support of first and second level. Installation, configuration, management and monitoring of the systems in these [Poupatempo](https://www.poupatempo.sp.gov.br/).
+
+
+**Office Assistant** - *[December 2016 ~ January 2014]*  
+[Colégio Leme Presbiteriano de Itapeva](http://colegiolemeitapeva.com.br/)  
+> Customer Service; I worked with ERP systems; financial activities, opening/closing cash; creation and maintenance of spreadsheets for the Human Resources; among others activities.
+
+
+**Entrepreneurship Statup FAIL** - *[November 2012 ~ November 2013]*  
+> In this period, together with more two friends, we try to start a startup of software development. However, we don't know anything about entrepreneurship, we know only PHP, and only the basics of this programming language. We think what our system needed being 100% functional, and we don't know anything about MVP concepts. Result of all? We closed the doors for lack of experience and knowledge. These failures staying here, but, I learned a lot in don't failure how that period, never again!
+
+
+**Information Systems Trainee** - *[October 2010 ~ October 2012]*  
 Secretaria Municipal da Educação de Itapeva  
-> Atendimento ao público; desenvolvimento de soluções ERP voltadas para a Gestão Escolar; suporte de primeiro nível; treinamento a novos usuários de soluções ERP.
+> Customer service; development of new ERP solutions for the School Management, using HTML, CSS, JS, PHP and MySQL; technical support of first level; training new users for ERP solutions developed.
 
 
-**Assistente Administrativo** - *[MAR/2010 ~ JUN/2010]*  
-FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva  
-> Atendimento ao público; trabalho e monitoramento de sistemas ERP; abertura e fechamento de caixa; recebimento de taxas e boletos; criação e manutenção de planilhas financeiras e analiticas; entre outras atividades.
+**Administrative Assistant** - *[March 2010 ~ June 2010]*  
+[FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva](http://www.fait.edu.br/site/)  
+> Customer Service; I worked with ERP systems; several financial activities, how as receiving fees and dockets; creation and maintenance of financial and analytical spreadsheets; among others activities.
 
 
-**Técnico de Infórmática** - *[AGO/2008 ~ FEV/2010]*  
-FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva  
-> Monitoramento e atualizações de sistemas ERP; montagem e manutenção de computadores e servidores; monitoramento e atualizações de infraestrutura e redes; treinamento de novas ferramentas para discentes e docentes; manutenção do site da instituição, desenvolvido com Joomla!; entre outras atividades.
+**Computer Technician** - *[August 2008 ~ February 2010]*  
+[FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva](http://www.fait.edu.br/site/)  
+> Installation and maintenance of ERP systems; mounting and maintenance of computers and servers; monitoring and updating the network infrastructure; development of website institutional with Joomla!; among others activities.
 
 
-**Auxiliar de Secretaria** - *[MAR/2008 ~ JUL/2008]*  
-FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva  
-> Atendimento ao público; trabalho com sistemas ERP; emissão de declarações e históricos escolares; criação e manutenção de planilhas acadêmicas; entre outras atividades.
+**Office Assistant** - *[MAR/2008 ~ JUL/2008]*  
+[FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva](http://www.fait.edu.br/site/)  
+> Customer service; I worked with ERP systems; issuance of transcripts; creation and management of academic spreadsheets; among others activities.
 
 
-## Formação  
+## Education  
 
-**Bacharel em Sistemas de Informação**, concluído em dezembro de 2013.  
-FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva
+**Bachelor of Information Systems** - February 2010 - December 2013.  
+[FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva](http://www.fait.edu.br/site/)  
+
+**Technical Hardware**, completed in 2008.  
+[CENAIC - Itapeva](http://www.cenaic.com.br/unidade/index.php?unidade=Itapeva)
 
 
-**Técnico em Hardware**, concluído em 2008.  
-CENAIC - Itapeva
+## Courses  
 
-
-## Cursos  
-
-* Gestão Estratégica de TI - ITIL, pela Escola Virtual Fundação Bradesco;  
-* Apreender a Empreender, pelo EaD Sebrae;  
-* Iniciando um Pequeno e Grande Negócio, pelo EaD Sebrae;  
-* Planejamento Estratégico, pela Endeavor;  
-* MEI - Micro Empreendedor Individual, pelo EaD Sebrae;  
-* [Be MEAN](https://github.com/Webschool-io/be-mean-instagram) (em andamento);  
-* JavaScript Road Trip, pela CodeSchool.
+* IT Strategic Management - ITIL, by [Fundação Bradesco](http://www.ev.org.br/Paginas/Home.aspx);  
+* Learning to Entrepreneurship, by [EaD Sebrae](https://www.ead.sebrae.com.br);  
+* Starting a small and big business, by [EaD Sebrae](https://www.ead.sebrae.com.br);  
+* Strategic Planning, by [Endeavor](cursos.endeavor.org.br/#/);  
+* Individual Entrepreneur, by [EaD Sebrae](https://www.ead.sebrae.com.br);  
+* [Be MEAN](https://github.com/Webschool-io/be-mean-instagram) (*in progress*);  
+* JavaScript Road Trip, by [CodeSchool](https://www.codeschool.com/learn/javascript).
