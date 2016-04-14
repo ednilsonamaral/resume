@@ -21,23 +21,75 @@ Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, n
 Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
 
 
-## Habilidades  
+## Skills  
 
-* HTML  
-* CSS / SASS (Básico)  
-* Mobile First (RWD)  
-* JavaScript / AngularJS (básico)  
-* Gulp (básico)  
-* Git / GitHub / GitHub Pages  
-* PHP (CRUD básico, loops e algumas funções básicas)  
-* MySQL / SQLite (básico) / MongoDB / SQL Server  
-* [MEAN](https://github.com/Webschool-io/be-mean-instagram) (estudando demais essa lindeza de stack)  
-* [ionic](ionicframework.com) (estudando demais essa lindeza de framework)  
-* Bootstrap / Jekyll (básico) / Jade (básico)  
-* Agile / Scrum / Kanban  
-* ITIL (conhecimentos básicos, Foundation)  
-* Lean Canvas / Bussiness Model Canvas  
-* Debian s2  
+### Front End  
+
+* HTML/HTML5  
+* CSS/CSS3  
+* JavaScript (*intermediário*)  
+
+#### Ferramentas, Frameworks, Stacks e Metodologias Fron-End  
+
+* AngularJS (*básico*)  
+* [MEAN](https://github.com/Webschool-io/be-mean-instagram) (*estudando demais essa lindeza de stack*)  
+* [ionic](ionicframework.com) (*estudando demais essa lindeza de framework*)  
+* Frameworks CSS - Bootstrap (*básico*) / Jeet (*básico*)  
+* Geradores Estáticos - Jekyll (*básico*)  
+* Template Engine - Jade (*básico*)  
+* Préprocessadores CSS - SASS (*básico*) / Stylus (*básico*)  
+* Mobile First / Responsive Web Design  
+* Atomic Design (*básico*)  
+* JS Task Runners - Gulp (*básico*) / NPM Scripts (*básico*)  
+* Testes Unitários - TDD (*básico*)
+
+
+### Back End  
+
+* PHP (*básico CRUD, algumas funções básicas, um pouquinho de POO com PHP*)  
+* Frameworks PHP - OpenCart (*básico*)  
+* NodeJS (*básico, comecei a estudar e praticar há alguns meses atrás*)
+
+
+### Banco de Dados - Relacional e NoSQL  
+
+* MySQL (*intermediário*)  
+* SQLite (*básico*)  
+* MongoDB (*básico*) / Mongoose (*básico*)  
+* SQL Server e SQL Express (*ambos, básico*)
+
+
+### Sistemas de Controle de Versão  
+
+* Git  
+* GitHub  
+* GitHub Pages  
+* BitBucket
+
+
+### Metodologias Ágeis  
+
+* Scrum (*básico*)  
+* Extreme Programming (*básico*)  
+* Kanban
+
+
+### Negócios e Startup  
+
+* Lean Canvas  
+* Business Model Canvas
+
+
+### IT Service Management (ITSM)  
+
+* ITIL Foundation (*não certificado, apenas fundamentos e funcionalidades básicas*)
+
+
+### Sistemas Operacionais  
+
+* Comandos Unix  
+* Linux (*Mint, Ubuntu, incluindo Ubuntu Server para ferramentas como Squid e Samba, Debian :heart:*)  
+* Windows (*desde o Windows ME até as versões mais recentes, incluindo Windows Server para ferramentas como AD e proxy*)  
 
 
 ## Experiências Profissionais  
