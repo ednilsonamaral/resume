@@ -7,6 +7,7 @@
 **Email:** [ednilsonamaral.ti@gmail.com](mailto:ednilsonamaral.ti@gmail.com)  
 **Skype:** ednilson_amaral  
 **GitHub:** ednilsonamaral  
+**Telegram:** @ednilsonamaral  
 **LinkedIn:** [https://br.linkedin.com/in/ednilson-amaral-02a984106](https://br.linkedin.com/in/ednilson-amaral-02a984106)  
 **Facebook:** [https://www.facebook.com/ednilson.amaral](https://www.facebook.com/ednilson.amaral)  
 **Twitter:** [https://twitter.com/ednilsonaamaral](https://twitter.com/ednilsonaamaral)
