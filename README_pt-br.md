@@ -32,7 +32,7 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 
 #### Ferramentas, Frameworks, Stacks e Metodologias Fron-End  
 
-* AngularJS (*básico*)  
+* AngularJS (*básico*) / jQuery (*básico*)  
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram) (*estudando demais essa lindeza de stack*)  
 * [ionic](ionicframework.com) (*estudando demais essa lindeza de framework*)  
 * Frameworks CSS - Bootstrap (*básico*) / Jeet (*básico*)  
@@ -41,6 +41,7 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * Préprocessadores CSS - SASS (*básico*) / Stylus (*básico*)  
 * Mobile First / Responsive Web Design  
 * Atomic Design (*básico*)  
+* CMS - Wordpress  
 * JS Task Runners - Gulp (*básico*) / NPM Scripts (*básico*)  
 * Testes Unitários - TDD (*básico*)
 
