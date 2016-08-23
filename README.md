@@ -3,7 +3,7 @@
 
 **Location:** Itapeva - SP - Brazil  
 **Phone Number:** +55 (15) 9-9674-0359  
-**Blog:** [ednilsonamaral.github.io](http://ednilsonamaral.github.io)  
+**Portfolio/Blog:** [http://ednilsonamaral.me/](http://ednilsonamaral.me/)  
 **Email:** [ednilsonamaral.ti@gmail.com](mailto:ednilsonamaral.ti@gmail.com)  
 **Skype:** ednilson_amaral  
 **GitHub:** ednilsonamaral  
