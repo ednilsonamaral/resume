@@ -15,24 +15,27 @@
 
 ## Sobre mim  
 
-Sou um desenvolvedor front-end, bem meia boca por sinal, amo codar! E o que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.  
+Sou um desenvolvedor front-end que amo codar! O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.  
 
 Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, nada melhor que trabalhar em equipe para compartilharmos conhecimento e experiências em prol de sempre evoluirmos como pessoa e profissionais.  
 
 Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
 
+Hoje, atuo como freelancer em projetos de front-end além de trabalhar como Front-End Junior para a EWTI e como Fullstack JavaScript Junior na AIDAX, ambas remotamente.
+
 
 ## Skills  
 
-### Front End  
+### Front-End  
 
 * HTML/HTML5  
 * CSS/CSS3  
 * JavaScript (*intermediário*)  
 
+
 #### Ferramentas, Frameworks, Stacks e Metodologias Fron-End  
 
-* AngularJS (*básico*) / jQuery (*básico*)  
+* AngularJS (*básico*) / jQuery (*básico*) / Vue.js (*básico*)  
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram) (*estudando demais essa lindeza de stack*)  
 * [ionic](ionicframework.com) (*estudando demais essa lindeza de framework*)  
 * Frameworks CSS - Bootstrap (*básico*) / Jeet (*básico*)  
@@ -46,11 +49,18 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 * Testes Unitários - TDD (*básico*)
 
 
-### Back End  
+### Back-End  
 
 * PHP (*básico CRUD, algumas funções básicas, um pouquinho de POO com PHP*)  
 * Frameworks PHP - OpenCart (*básico*)  
 * NodeJS (*básico, comecei a estudar e praticar há alguns meses atrás*)
+
+
+#### Deploy  
+
+* DigitalOcean  
+* Heroku  
+* MongoLab
 
 
 ### Banco de Dados - Relacional e NoSQL  
@@ -91,14 +101,14 @@ Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprend
 
 * Comandos Unix  
 * Linux (*Mint, Ubuntu, incluindo Ubuntu Server para ferramentas como Squid e Samba, Debian :heart:*)  
-* Windows (*desde o Windows ME até as versões mais recentes, incluindo Windows Server para ferramentas como AD e proxy*)  
+* Windows (*desde o Windows ME até as versões mais recentes, incluindo Windows Server para ferramentas como AD e proxy*)
 
 
 ## Experiências Profissionais  
 
-> O inicio da minha carreira profissional, atuei (formalmente falando) na área de Suporte de TI. Já cheguei a desenvolver alguns projetos web como freelancer, mas nada em agências.  
->  
-> Atualmente, atuo como desenvolvedor front-end, quem sabe um dia um *full stack*.
+**Desenvolvedor Fullstack JavaScript (Junior)** - *[AGO/2016 ~ atual]*  
+AIDAX
+> Desenvolvimento de aplicações com Vue.js, implementações de layouts com HTML e CSS. Instalação e configurações de servidores (VPS) para deploy de projetos em NodeJS, utilizando Express.js.
 
 
 **Desenvolvedor Front-End Junior** - *[FEV/2016 ~ atual]*  
