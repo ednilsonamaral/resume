@@ -80,7 +80,8 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 * Git  
 * GitHub  
 * GitHub Pages  
-* BitBucket
+* BitBucket  
+* GitLab
 
 
 ### Agile Methodologies  

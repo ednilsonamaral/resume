@@ -76,7 +76,8 @@ Hoje, atuo como freelancer em projetos de front-end além de trabalhar como Fron
 * Git  
 * GitHub  
 * GitHub Pages  
-* BitBucket
+* BitBucket  
+* GitLab
 
 
 ### Metodologias Ágeis  
