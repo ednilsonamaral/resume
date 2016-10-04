@@ -21,7 +21,7 @@ Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, n
 
 Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
 
-Hoje, atuo como freelancer em projetos de front-end além de trabalhar como Front-End Junior para a EWTI e como Fullstack JavaScript Junior na AIDAX, ambas remotamente.
+Atualmente trabalho como Front-End Junior para a EWTI e como Fullstack JavaScript Junior na AIDAX, ambas remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web com MEAN Stack.
 
 
 ## Skills  
