@@ -21,7 +21,7 @@ Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, n
 
 Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
 
-Atualmente trabalho como Front-End Junior para a EWTI e como Fullstack JavaScript Junior na AIDAX, ambas remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web com MEAN Stack.
+Atualmente trabalho como Front-End Junior para a EWTI, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web com MEAN Stack.
 
 
 ## Skills  
@@ -107,7 +107,7 @@ Atualmente trabalho como Front-End Junior para a EWTI e como Fullstack JavaScrip
 
 ## Experiências Profissionais  
 
-**Desenvolvedor Fullstack JavaScript (Junior)** - *[AGO/2016 ~ atual]*  
+**Desenvolvedor Fullstack JavaScript (Junior)** - *[AGO/2016 ~ JAN/2017]*  
 AIDAX
 > Desenvolvimento de aplicações com Vue.js, implementações de layouts com HTML e CSS. Instalação e configurações de servidores (VPS) para deploy de projetos em NodeJS, utilizando Express.js.
 

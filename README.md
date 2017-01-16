@@ -26,7 +26,7 @@ I'm always studying new things, new technologies, and I never give up of study! 
 
 My first contact with HTML and CSS was when I was 16 years old. But, my professional career started as IT Technical Support, with the same age. At the same time, I developed some web projects how freelancer, but never in agencies. At 2014 I returned to study web development and update my knowledges. Since then, I never stopped.  
 
-Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/) and as Fullstack JavaScript Developer (Junior) at [AIDAX](http://www.aidaxbi.com/), both home office. In addition to developing some projects as a freelancer, in front-end projects or web apps with MEAN Stack. Always looking for personal and professional growth.
+Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/), home office. In addition to developing some projects as a freelancer, in front-end projects or web apps with MEAN Stack. Always looking for personal and professional growth.
 
 
 ## Skills  
@@ -97,6 +97,11 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 * Business Model Canvas
 
 
+### Data Analysis
+
+* Klipfolio
+
+
 ### IT Service Management (ITSM)  
 
 * ITIL Foundation (*not certificate, only basic fundamentals and features*)
@@ -111,9 +116,9 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 ## Work Experience  
 
-**Fullstack JS Developer (Junior)** - *[August/2016 ~ Present]*  
+**Fullstack JS Developer (Junior)** - *[August/2016 ~ January/2017]*  
 [AIDAX](http://www.aidaxbi.com/)
-> Developing new applications with Vue.js; layouts with HTML and CSS. Also set up a server for deploy Node JS projects, using Express.js.
+> Front-end improvements; bug fixes; implementations of new features; implementations of new dashboard theme. Developing new applications with Vue.js; layouts with HTML and CSS. Also set up a server for deploy Node JS projects, using Express.js. Custom dashboards development of data analysis for AUDAX partners.
 
 
 **Junior Front End Developer** - *[February 20016 ~ Present]*  
