@@ -21,7 +21,7 @@ Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, n
 
 Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
 
-Atualmente trabalho como Front-End Junior para a EWTI, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web com MEAN Stack.
+Atualmente trabalho como Front-End para a agência EWTI, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web completos com MEAN Stack, e/ou Vue.js. Também, estou ministrando o curso de **Vue.js na Prática** pela [Webschool.io](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5), juntamente com o [Igor Luiz](https://github.com/Halfeld).
 
 
 ## Skills  
@@ -35,25 +35,25 @@ Atualmente trabalho como Front-End Junior para a EWTI, remotamente. Além de atu
 
 #### Ferramentas, Frameworks, Stacks e Metodologias Fron-End  
 
-* AngularJS (*básico*) / jQuery (*básico*) / Vue.js (*básico*)  
-* [MEAN](https://github.com/Webschool-io/be-mean-instagram) (*estudando demais essa lindeza de stack*)  
-* [ionic](ionicframework.com) (*estudando demais essa lindeza de framework*)  
-* Frameworks CSS - Bootstrap (*básico*) / Jeet (*básico*)  
-* Geradores Estáticos - Jekyll (*básico*)  
-* Template Engine - Jade (*básico*)  
-* Préprocessadores CSS - SASS (*básico*) / Stylus (*básico*)  
+* AngularJS  / jQuery  / Vue.js  
+* [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
+* [ionic](ionicframework.com)  
+* Frameworks CSS - Bootstrap  / Jeet   
+* Geradores Estáticos - Jekyll   
+* Template Engine - Jade   
+* Préprocessadores CSS - SASS  / Stylus   
 * Mobile First / Responsive Web Design  
-* Atomic Design (*básico*)  
+* Atomic Design   
 * CMS - Wordpress  
-* JS Task Runners - Gulp (*básico*) / NPM Scripts (*básico*)  
-* Testes Unitários - TDD (*básico*)
+* JS Task Runners - Gulp  / NPM Scripts   
+* Testes Unitários - TDD
 
 
 ### Back-End  
 
-* PHP (*básico CRUD, algumas funções básicas, um pouquinho de POO com PHP*)  
-* Frameworks PHP - OpenCart (*básico*)  
-* NodeJS (*básico, comecei a estudar e praticar há alguns meses atrás*)
+* PHP (*CRUD básico, algumas funções básicas*)  
+* Frameworks PHP - OpenCart   
+* NodeJS
 
 
 #### Deploy  
@@ -65,10 +65,10 @@ Atualmente trabalho como Front-End Junior para a EWTI, remotamente. Além de atu
 
 ### Banco de Dados - Relacional e NoSQL  
 
-* MySQL (*intermediário*)  
-* SQLite (*básico*)  
-* MongoDB (*básico*) / Mongoose (*básico*)  
-* SQL Server e SQL Express (*ambos, básico*)
+* MySQL
+* SQLite   
+* MongoDB  / Mongoose   
+* SQL Server e SQL Express
 
 
 ### Sistemas de Controle de Versão  
@@ -82,8 +82,8 @@ Atualmente trabalho como Front-End Junior para a EWTI, remotamente. Além de atu
 
 ### Metodologias Ágeis  
 
-* Scrum (*básico*)  
-* Extreme Programming (*básico*)  
+* Scrum   
+* Extreme Programming   
 * Kanban
 
 
@@ -106,6 +106,11 @@ Atualmente trabalho como Front-End Junior para a EWTI, remotamente. Além de atu
 
 
 ## Experiências Profissionais  
+
+**Desenvolver Mobile** - *[FEV/2017 ~ atual]*  
+[ADH - Advanced Digital Health](https://www.advanced-dh.com/)
+> Desenvolvimento de aplicações mobile híbridas com Ionic.
+
 
 **Desenvolvedor Fullstack JavaScript (Junior)** - *[AGO/2016 ~ JAN/2017]*  
 AIDAX
@@ -164,6 +169,11 @@ FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva
 
 **Técnico em Hardware**, concluído em 2008.  
 CENAIC - Itapeva
+
+
+## Cursos Ministrados
+
+* [Vue.js na Prática](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5), pela [Webschool.io](http://webschool.io/), juntamente com o [Igor Luiz](https://github.com/Halfeld).
 
 
 ## Cursos  

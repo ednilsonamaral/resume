@@ -26,7 +26,7 @@ I'm always studying new things, new technologies, and I never give up of study! 
 
 My first contact with HTML and CSS was when I was 16 years old. But, my professional career started as IT Technical Support, with the same age. At the same time, I developed some web projects how freelancer, but never in agencies. At 2014 I returned to study web development and update my knowledges. Since then, I never stopped.  
 
-Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/), home office. In addition to developing some projects as a freelancer, in front-end projects or web apps with MEAN Stack. Always looking for personal and professional growth.
+Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/), home office. In addition to developing some projects as a freelancer, in front-end projects or web apps with MEAN Stack. Always looking for personal and professional growth. I also ministered the **Vue.js** course at the [Webschool.io](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5) along with [Igor Luiz](https://github.com/Halfeld).
 
 
 ## Skills  
@@ -39,25 +39,25 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 #### Tools, Frameworks, Stacks and Front End Methodologies  
 
-* AngularJS (*basic*) / jQuery (*basic*) / Vue.js (*basic*)  
-* [MEAN](https://github.com/Webschool-io/be-mean-instagram) (*studying a lot this prettiness stack*)  
-* [ionic](ionicframework.com) (*studying a lot this prettiness framework*)  
-* CSS Frameworks - Bootstrap (*basic*) / Jeet (*basic*)  
-* Static Generators - Jekyll (*basic*)  
-* Template Engine - Jade (*basic*)  
-* CSS Preprocessors - SASS (*basic*) / Stylus (*basic*)  
+* AngularJS  / jQuery  / Vue.js   
+* [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
+* [ionic](ionicframework.com)  
+* CSS Frameworks - Bootstrap  / Jeet   
+* Static Generators - Jekyll   
+* Template Engine - Pug  
+* CSS Preprocessors - SASS  / Stylus   
 * Mobile First / Responsive Web Design  
-* Atomic Design (*basic*)  
+* Atomic Design   
 * CMS - Wordpress  
-* JS Task Runners - Gulp (*basic*) / NPM Scripts (*basic*)  
-* Unit Tests - TDD (*basic*)
+* JS Task Runners - Gulp  / NPM Scripts   
+* Unit Tests - TDD
 
 
 ### Back-End  
 
-* PHP (*basic CRUD, some basics functions, a little bit of Object-oriented programming with PHP*)  
-* PHP Frameworks - OpenCart (*basic*)  
-* NodeJS (*basic*) / Express.js (*basic*)
+* PHP (*basic CRUD, some basics functions*)  
+* PHP Frameworks - OpenCart   
+* NodeJS  / Express.js
 
 
 #### Deploy  
@@ -69,10 +69,10 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 ### Databases - Relational and NoSQL  
 
-* MySQL (*intermediate*)  
-* SQLite (*basic*)  
-* MongoDB (*basic*) / Mongoose (*basic*)  
-* SQL Server and SQL Express (*both basic*)
+* MySQL  
+* SQLite   
+* MongoDB  / Mongoose   
+* SQL Server and SQL Express
 
 
 ### Version Control Systems  
@@ -86,8 +86,8 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 ### Agile Methodologies  
 
-* Scrum (*basic*)  
-* Extreme Programming (*basic*)  
+* Scrum   
+* Extreme Programming   
 * Kanban
 
 
@@ -115,6 +115,11 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 
 ## Work Experience  
+
+**Mobile Developer** - *[February/2017 ~ Present]*  
+[ADH - Advanced Digital Health](https://www.advanced-dh.com/)
+> Developing hybrid apps with Ionic.
+
 
 **Fullstack JS Developer (Junior)** - *[August/2016 ~ January/2017]*  
 [AIDAX](http://www.aidaxbi.com/)
@@ -172,6 +177,11 @@ Secretaria Municipal da Educação de Itapeva
 
 **Technical Hardware**, completed in 2008.  
 [CENAIC - Itapeva](http://www.cenaic.com.br/unidade/index.php?unidade=Itapeva)
+
+
+## Courses Taught
+
+* [Vue.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5) at the [Webschool.io](http://webschool.io/) along with [Igor Luiz](https://github.com/Halfeld).
 
 
 ## Courses  
