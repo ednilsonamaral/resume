@@ -50,10 +50,8 @@ Atualmente trabalho como Front-End para a agência EWTI, remotamente. Além de a
 
 
 ### Back-End  
-
-* PHP (*CRUD básico, algumas funções básicas*)  
-* Frameworks PHP - OpenCart   
-* NodeJS
+ 
+* NodeJS / Express.js / Hapi.js
 
 
 #### Deploy  

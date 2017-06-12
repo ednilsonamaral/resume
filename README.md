@@ -55,9 +55,7 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 ### Back-End  
 
-* PHP (*basic CRUD, some basics functions*)  
-* PHP Frameworks - OpenCart   
-* NodeJS  / Express.js
+* NodeJS / Express.js / Hapi.js
 
 
 #### Deploy  
