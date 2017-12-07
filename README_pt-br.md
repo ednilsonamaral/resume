@@ -101,7 +101,8 @@ Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. A
 
 * Comandos Unix  
 * Linux (*Mint, Ubuntu, incluindo Ubuntu Server para ferramentas como Squid e Samba, Debian :heart:*)  
-* Windows (*desde o Windows ME até as versões mais recentes, incluindo Windows Server para ferramentas como AD e proxy*)
+* Windows (*desde o Windows ME até as versões mais recentes, incluindo Windows Server para ferramentas como AD e proxy*)  
+* Mac OS X
 
 
 ## Experiências Profissionais  

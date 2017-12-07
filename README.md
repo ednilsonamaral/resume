@@ -110,7 +110,8 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 
 * Unix commands  
 * Linux (*Mint, Ubuntu, including Ubuntu Server for Squid and Samba tools, Debian :heart:*)  
-* Windows (*since Windows ME until the last versions, including Windows Server for AD and proxy tools*)
+* Windows (*since Windows ME until the last versions, including Windows Server for AD and proxy tools*)  
+* Mac OS X
 
 
 ## Work Experience  
