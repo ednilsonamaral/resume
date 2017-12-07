@@ -113,7 +113,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack Javascript** prestando servi
 
 **Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ atual]*  
 [Manatee](https://www.manatee.art.br/)
-> Desenvolvimento de aplicações mobile híbridas com Ionic.
+> Desenvolvidmento de APIs e editor de vídeos com Node.js e Electron.js.
 
 
 **Desenvolvedor Mobile** - *[FEV/2017 ~ atual]*  

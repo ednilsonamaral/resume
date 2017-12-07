@@ -122,7 +122,7 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 **Full Stack Javascript Developer** - *[June/2017 ~ Present]*  
 [Manatee](http://www.manatee.art.br/)
-> Developing hybrid apps with Ionic.
+> Development of APIs and video editor with Node.js and Electron.js.
 
 
 **Mobile Developer** - *[February/2017 ~ Present]*  
