@@ -26,7 +26,7 @@ I'm always studying new things, new technologies, and I never give up of study! 
 
 My first contact with HTML and CSS was when I was 16 years old. But, my professional career started as IT Technical Support, with the same age. At the same time, I developed some web projects how freelancer, but never in agencies. At 2014 I returned to study web development and update my knowledges. Since then, I never stopped.  
 
-Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/), home office. In addition to developing some projects as a freelancer, in front-end projects or web apps with MEAN Stack. Always looking for personal and professional growth. I also ministered the **Vue.js** course at the [Webschool.io](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5) along with [Igor Luiz](https://github.com/Halfeld).
+Nowadays I work as Full Stack Javascript Developer, home office. In addition to developing some projects as a freelancer, in front-end projects or web apps with MEAN Stack, Vue.js and Ionic. Always looking for personal and professional growth.
 
 
 ## Skills  

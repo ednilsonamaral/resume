@@ -21,7 +21,7 @@ Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, n
 
 Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
 
-Atualmente trabalho como **Desenvolvedor Full Stack Javascript** prestando serviços como PJ, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web completos com MEAN Stack, e/ou Vue.js.
+Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web completos com MEAN Stack, Vue.js e/ou Ionic.
 
 
 ## Skills  
