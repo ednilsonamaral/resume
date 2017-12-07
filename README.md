@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello, folks! I'm Ednilson Amaral, 25 years old, front-end developer. Father of baby boy Rodrigo; BJJ practitioner; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
+Hello, folks! I'm Ednilson Amaral, 25 years old, front-end developer. Father of baby boy Rodrigo; BJJ Fighter; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
 
 I love everything related to web, agile development, readable coding, semantic and reusable. Writing codes without losing my sanity. I love projects with solid and robust architectures, well organized. Today, I work with front-end development, but study a lot for work with MEAN Stack and Ionic in a near future.  
 
@@ -35,7 +35,7 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 * HTML/HTML5  
 * CSS/CSS3  
-* JavaScript (*intermediate*)  
+* JavaScript  
 
 #### Tools, Frameworks, Stacks and Front End Methodologies  
 
@@ -50,6 +50,7 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 * Atomic Design   
 * CMS - Wordpress  
 * JS Task Runners - Gulp  / NPM Scripts   
+* Bundles - Webpack  
 * Unit Tests - TDD
 
 
@@ -114,6 +115,16 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 
 ## Work Experience  
 
+**Full Stack Javascript Developer** - *[June/2017 ~ Present]*  
+[Qargo](http://www.qargo.com.br/)
+> Development of APIs, hybrid applications with Ionic and web dashboards aimed at startup product, on freight transportation.
+
+
+**Full Stack Javascript Developer** - *[June/2017 ~ Present]*  
+[Manatee](http://www.manatee.art.br/)
+> Developing hybrid apps with Ionic.
+
+
 **Mobile Developer** - *[February/2017 ~ Present]*  
 [ADH - Advanced Digital Health](https://www.advanced-dh.com/)
 > Developing hybrid apps with Ionic.
@@ -124,7 +135,7 @@ Nowadays I work as Junior Front-End Developer at [EWTI](http://www.ewti.com.br/)
 > Front-end improvements; bug fixes; implementations of new features; implementations of new dashboard theme. Developing new applications with Vue.js; layouts with HTML and CSS. Also set up a server for deploy Node JS projects, using Express.js. Custom dashboards development of data analysis for AUDAX partners.
 
 
-**Junior Front End Developer** - *[February 20016 ~ Present]*  
+**Junior Front End Developer** - *[February 20016 ~ November 2017]*  
 [EWTI](http://www.ewti.com.br/)  
 > Developing new web solutions, focused in frontend, using HTML, CSS and JS. Also developing layouts using CSS Frameworks how Bootstrap and Jeet, implementation layouts in ecommerce projects using OpenCart how framework and developing animations with HTML and CSS.
 

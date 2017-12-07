@@ -21,7 +21,7 @@ Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, n
 
 Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
 
-Atualmente trabalho como Front-End para a agência EWTI, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web completos com MEAN Stack, e/ou Vue.js. Também, estou ministrando o curso de **Vue.js na Prática** pela [Webschool.io](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5), juntamente com o [Igor Luiz](https://github.com/Halfeld).
+Atualmente trabalho como **Desenvolvedor Full Stack Javascript** prestando serviços como PJ, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web completos com MEAN Stack, e/ou Vue.js.
 
 
 ## Skills  
@@ -30,7 +30,7 @@ Atualmente trabalho como Front-End para a agência EWTI, remotamente. Além de a
 
 * HTML/HTML5  
 * CSS/CSS3  
-* JavaScript (*intermediário*)  
+* JavaScript
 
 
 #### Ferramentas, Frameworks, Stacks e Metodologias Fron-End  
@@ -46,11 +46,12 @@ Atualmente trabalho como Front-End para a agência EWTI, remotamente. Além de a
 * Atomic Design   
 * CMS - Wordpress  
 * JS Task Runners - Gulp  / NPM Scripts   
+* Bundles - Webpack  
 * Testes Unitários - TDD
 
 
 ### Back-End  
- 
+
 * NodeJS / Express.js / Hapi.js
 
 
@@ -105,7 +106,17 @@ Atualmente trabalho como Front-End para a agência EWTI, remotamente. Além de a
 
 ## Experiências Profissionais  
 
-**Desenvolver Mobile** - *[FEV/2017 ~ atual]*  
+**Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ atual]*  
+[Qargo](https://www.qargo.com.br/)
+> Desenvolvimento de API, aplicativos hibridos com Ionic e dashboards web voltados para produto da startup, sobre transporte de encomendas.
+
+
+**Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ atual]*  
+[Manatee](https://www.manatee.art.br/)
+> Desenvolvimento de aplicações mobile híbridas com Ionic.
+
+
+**Desenvolvedor Mobile** - *[FEV/2017 ~ atual]*  
 [ADH - Advanced Digital Health](https://www.advanced-dh.com/)
 > Desenvolvimento de aplicações mobile híbridas com Ionic.
 
@@ -115,7 +126,7 @@ AIDAX
 > Desenvolvimento de aplicações com Vue.js, implementações de layouts com HTML e CSS. Instalação e configurações de servidores (VPS) para deploy de projetos em NodeJS, utilizando Express.js.
 
 
-**Desenvolvedor Front-End Junior** - *[FEV/2016 ~ atual]*  
+**Desenvolvedor Front-End Junior** - *[FEV/2016 ~ NOV/2017]*  
 EWTI  
 > Desenvolvimento de aplicações web, com foco no Front-End, utilizando HTML, CSS, JavaScript. Também, desenvolvimento de layouts utilizando Bootstrap e Jade, implementações de layout em projetos de ecommerce utilizando OpenCart e criação de animações em HTML e CSS.
 
