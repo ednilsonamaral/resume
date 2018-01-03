@@ -121,12 +121,12 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 > Development of APIs, hybrid applications with Ionic and web dashboards aimed at startup product, on freight transportation.
 
 
-**Full Stack Javascript Developer** - *[June/2017 ~ Present]*  
+**Full Stack Javascript Developer** - *[June/2017 ~ December/2017]*  
 [Manatee](http://www.manatee.art.br/)
 > Development of APIs and video editor with Node.js and Electron.js.
 
 
-**Mobile Developer** - *[February/2017 ~ Present]*  
+**Mobile Developer** - *[February/2017 ~ December/2017]*  
 [ADH - Advanced Digital Health](https://www.advanced-dh.com/)
 > Developing hybrid apps with Ionic.
 

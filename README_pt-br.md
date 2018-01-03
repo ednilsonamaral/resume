@@ -112,12 +112,12 @@ Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. A
 > Desenvolvimento de API, aplicativos hibridos com Ionic e dashboards web voltados para produto da startup, sobre transporte de encomendas.
 
 
-**Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ atual]*  
+**Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ DEZ/2017]*  
 [Manatee](https://www.manatee.art.br/)
 > Desenvolvidmento de APIs e editor de vídeos com Node.js e Electron.js.
 
 
-**Desenvolvedor Mobile** - *[FEV/2017 ~ atual]*  
+**Desenvolvedor Mobile** - *[FEV/2017 ~ DEZ/2017]*  
 [ADH - Advanced Digital Health](https://www.advanced-dh.com/)
 > Desenvolvimento de aplicações mobile híbridas com Ionic.
 
