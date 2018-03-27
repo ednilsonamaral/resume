@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello, folks! I'm Ednilson Amaral, 25 years old, front-end developer. Father of baby boy Rodrigo; BJJ Fighter; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
+Hello, folks! I'm Ednilson Amaral, 26 years old, front-end developer. Father of baby boy Rodrigo; BJJ Fighter; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
 
 I love everything related to web, agile development, readable coding, semantic and reusable. Writing codes without losing my sanity. I love projects with solid and robust architectures, well organized. Today, I work with front-end development, but study a lot for work with MEAN Stack and Ionic in a near future.  
 
@@ -114,11 +114,7 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 * Mac OS X
 
 
-## Work Experience  
-
-**Full Stack Javascript Developer** - *[June/2017 ~ Present]*  
-[Qargo](http://www.qargo.com.br/)
-> Development of APIs, hybrid applications with Ionic and web dashboards aimed at startup product, on freight transportation.
+## Work Experience
 
 
 **Full Stack Javascript Developer** - *[June/2017 ~ December/2017]*  

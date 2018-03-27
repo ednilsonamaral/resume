@@ -105,11 +105,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. A
 * Mac OS X
 
 
-## Experiências Profissionais  
-
-**Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ atual]*  
-[Qargo](https://www.qargo.com.br/)
-> Desenvolvimento de API, aplicativos hibridos com Ionic e dashboards web voltados para produto da startup, sobre transporte de encomendas.
+## Experiências Profissionais
 
 
 **Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ DEZ/2017]*  
