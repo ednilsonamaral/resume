@@ -3,25 +3,28 @@
 
 **Localização:** Itapeva - SP - Brasil  
 **Telefone:** +55 (15) 9-9674-0359  
-**Portfolio/Blog:** [http://ednilsonamaral.me/](http://ednilsonamaral.me/)  
+**Portfolio:** [http://ednilsonamaral.github.io/](http://ednilsonamaral.github.io/portfolio)  
 **Email:** [ednilsonamaral.ti@gmail.com](mailto:ednilsonamaral.ti@gmail.com)  
 **Skype:** ednilson_amaral  
 **GitHub:** ednilsonamaral  
 **Telegram:** @ednilsonamaral  
 **LinkedIn:** [https://br.linkedin.com/in/ednilson-amaral-02a984106](https://br.linkedin.com/in/ednilson-amaral-02a984106)  
 **Facebook:** [https://www.facebook.com/ednilson.amaral](https://www.facebook.com/ednilson.amaral)  
-**Twitter:** [https://twitter.com/ednilsonaamaral](https://twitter.com/ednilsonaamaral)
 
 
 ## Sobre mim  
 
-Sou um desenvolvedor front-end que amo codar! O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.  
+Olá, sou **Ednilson Amaral**! Tenho 26 anos, moro em **Itapeva/SP** e trabalho como **Desenvolvedor Full Stack Javascript** e **Desenvolvedor Front-end**, remotamente. Sou pai do *baby boy* Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries *(geek detected)*. Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
 
-Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, nada melhor que trabalhar em equipe para compartilharmos conhecimento e experiências em prol de sempre evoluirmos como pessoa e profissionais.  
+O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.
 
-Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
+Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, nada melhor que trabalhar em equipe para compartilharmos conhecimento e experiências em prol de sempre evoluirmos como pessoa e profissionais.
 
-Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web completos com MEAN Stack, Vue.js e/ou Ionic.
+Sempre estou estudando algo novo, e nunca canso de estudar. **Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!**
+
+Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha carreira profissional começou como Suporte de TI, na mesma idade. Paralelamente, eu desenvolvia projetos web como freelancer. Durante a faculdade, devido a grande demanda de tempo que me custou trabalhar e estudar ao mesmo tempo, deixei um pouco de lado o desenvolvimento web e foquei meus estudos na faculdade. Em 2014, eu retornei com força todal ao desenvolvimento web e me atualizei do que havia perdido. Desde então, nunca mais parei!
+
+Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. Além de atuar como freelancer em projetos de front-end e/ou sistemas web completos; APIs REST com NodeJS + Express + MongoDB; dashboards e SPAs com AngularJS ou VueJS; aplicativos híbridos com Ionic; temas para Wordpress; temas para OpenCart, etc.
 
 
 ## Skills  
@@ -106,6 +109,11 @@ Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. A
 
 
 ## Experiências Profissionais
+
+
+**Desenvolvedor Fullstack JavaScript** - *[ABR/2017 ~ JUL/2018]*  
+[Clube de Apostas - Betfellows](https://www.betfellows.com/)
+> Desenvolvidmento de APIs em Node.js e front-end em Vue.js + Nuxt.js.
 
 
 **Desenvolvedor Fullstack JavaScript** - *[JUN/2017 ~ DEZ/2017]*  
