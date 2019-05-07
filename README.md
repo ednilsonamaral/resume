@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello, folks! I'm Ednilson Amaral, 26 years old, front-end developer. Father of baby boy Rodrigo; BJJ Fighter; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
+Hello, folks! I'm Ednilson Amaral, 27 years old, Full Stack Javascript Developer. Father of baby boy Rodrigo; BJJ Athlete; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
 
 I love everything related to web, agile development, readable coding, semantic and reusable. Writing codes without losing my sanity. I love projects with solid and robust architectures, well organized. Today, I work with front-end development, but study a lot for work with MEAN Stack and Ionic in a near future.  
 
@@ -42,7 +42,7 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 * AngularJS  / jQuery  / Vue.js   
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
 * [ionic](ionicframework.com)  
-* CSS Frameworks - Bootstrap  / Jeet   
+* CSS Frameworks - Bootstrap  / Jeet / Bulma / Materialize / Material Design / Vuetify  
 * Static Generators - Jekyll   
 * Template Engine - Pug  
 * CSS Preprocessors - SASS  / Stylus   
@@ -114,7 +114,16 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 * Mac OS X
 
 
-## Work Experience
+## Work Experience (Fixed Jobs)
+
+**FrontEnd Developer** - *[January/2019 ~ April/2019]*  
+[Mercado Eletronico](me.com.br)
+> Development, corrections and maintenance on the products provided in Vue.js + Nuxt.js
+
+
+**Full Stack Javascript Developer** - *[April/2018 ~ July/2018]*  
+[Mercado Eletronico](me.com.br)
+> Development of APIs on Node.js and front-end in Vue.js + Nuxt.js
 
 
 **Full Stack Javascript Developer** - *[June/2017 ~ December/2017]*  
@@ -197,5 +206,5 @@ Secretaria Municipal da Educação de Itapeva
 * Starting a small and big business, by [EaD Sebrae](https://www.ead.sebrae.com.br);  
 * Strategic Planning, by [Endeavor](cursos.endeavor.org.br/#/);  
 * Individual Entrepreneur, by [EaD Sebrae](https://www.ead.sebrae.com.br);  
-* [Be MEAN](https://github.com/Webschool-io/be-mean-instagram) (*in progress*);  
+* [Be MEAN](https://github.com/Webschool-io/be-mean-instagram);  
 * JavaScript Road Trip, by [CodeSchool](https://www.codeschool.com/learn/javascript).
