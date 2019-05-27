@@ -122,7 +122,7 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 
 
 **Full Stack Javascript Developer** - *[April/2018 ~ July/2018]*  
-[Mercado Eletronico](me.com.br)
+[Betfellows](https://www.betfellows.com/)
 > Development of APIs on Node.js and front-end in Vue.js + Nuxt.js
 
 

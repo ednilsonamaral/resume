@@ -14,7 +14,7 @@
 
 ## Sobre mim  
 
-Olá, sou **Ednilson Amaral**! Tenho 26 anos, moro em **Itapeva/SP** e trabalho como **Desenvolvedor Full Stack Javascript** e **Desenvolvedor Front-end**, remotamente. Sou pai do *baby boy* Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries *(geek detected)*. Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
+Olá, sou **Ednilson Amaral**! Tenho 27 anos, resido em **Itapeva/SP** e trabalho como **Desenvolvedor Full Stack Javascript** e **Desenvolvedor Front-end**, remotamente. Sou pai do *baby boy* Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries *(geek detected)*. Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
 
 O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.
 
@@ -70,7 +70,8 @@ Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. A
 * MySQL
 * SQLite   
 * MongoDB  / Mongoose   
-* SQL Server e SQL Express
+* SQL Server e SQL Express  
+* Firebase
 
 
 ### Sistemas de Controle de Versão  
@@ -111,7 +112,12 @@ Atualmente trabalho como **Desenvolvedor Full Stack Javascript**, remotamente. A
 ## Experiências Profissionais
 
 
-**Desenvolvedor Fullstack JavaScript** - *[ABR/2017 ~ JUL/2018]*  
+**FrontEnd Developer** - *[JAN/2019 ~ ABR/2019]*  
+[Mercado Eletronico](me.com.br)
+> Desenvolvimento de novas features e manutenção em features existentes nos produtos do ME. Utilizando Vue.js + Vuex + Nuxt.js, Zeplin, Sketch.
+
+
+**Desenvolvedor Fullstack JavaScript** - *[ABR/2018 ~ JUL/2018]*  
 [Clube de Apostas - Betfellows](https://www.betfellows.com/)
 > Desenvolvidmento de APIs em Node.js e front-end em Vue.js + Nuxt.js.
 
