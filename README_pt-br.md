@@ -14,7 +14,7 @@
 
 ## Sobre mim  
 
-Olá, sou Ednilson Amaral! Tenho 27 anos, resido em Itapeva/SP e trabalho como Desenvolvedor Full Stack Javascript e Desenvolvedor Front-end, remotamente. Sou pai do baby boy Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries (geek detected). Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
+Olá, sou Ednilson Amaral! Tenho 28 anos, resido em Itapeva/SP e trabalho como Desenvolvedor Full Stack Javascript e Desenvolvedor Front-end, remotamente. Sou pai do baby boy Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries (geek detected). Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
 
 O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.
 
@@ -40,7 +40,7 @@ Atualmente trabalho como Desenvolvedor Full Stack Javascript, remotamente. Além
 
 * AngularJS  / jQuery  / Vue.js  
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
-* [Ionic](ionicframework.com)  
+* [Ionic 2+](ionicframework.com)  
 * Frameworks CSS - Bootstrap  / Jeet   
 * Geradores Estáticos - Jekyll   
 * Template Engine - Jade   
@@ -55,14 +55,15 @@ Atualmente trabalho como Desenvolvedor Full Stack Javascript, remotamente. Além
 
 ### Back-End  
 
-* NodeJS / Express.js / Hapi.js
+* NodeJS / Express.js / Hapi.js / TypeScript
 
 
 #### Deploy  
 
 * DigitalOcean  
 * Heroku  
-* MongoLab
+* MongoLab  
+* AWS Beanstalk
 
 
 ### Banco de Dados - Relacional e NoSQL  
@@ -71,7 +72,13 @@ Atualmente trabalho como Desenvolvedor Full Stack Javascript, remotamente. Além
 * SQLite   
 * MongoDB  / Mongoose   
 * SQL Server e SQL Express  
-* Firebase
+* Firebase  
+* PostgreSQL
+
+
+#### ORM
+
+* Sequelize
 
 
 ### Sistemas de Controle de Versão  
@@ -80,7 +87,8 @@ Atualmente trabalho como Desenvolvedor Full Stack Javascript, remotamente. Além
 * GitHub  
 * GitHub Pages  
 * BitBucket  
-* GitLab
+* GitLab  
+* CD/CI
 
 
 ### Metodologias Ágeis  
