@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello, folks! I'm Ednilson Amaral, 27 years old, Full Stack Javascript Developer. Father of baby boy Rodrigo; BJJ Athlete; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
+Hello, folks! I'm Ednilson Amaral, 28 years old, **Software Developer** at [FitDance](https://www.fitdance.com/). Father of baby boy Rodrigo; BJJ Athlete; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
 
 I love everything related to web, agile development, readable coding, semantic and reusable. Writing codes without losing my sanity. I love projects with solid and robust architectures, well organized. Today, I work with front-end development, but study a lot for work with MEAN Stack and Ionic in a near future.  
 
@@ -24,9 +24,7 @@ I've very facility to make new friends and love to work and collaborate with tea
 
 I'm always studying new things, new technologies, and I never give up of study! After all, what we learning is the only capital what we never lose, nobody can take this of us!
 
-My first contact with HTML and CSS was when I was 16 years old. But, my professional career started as IT Technical Support, with the same age. At the same time, I developed some web projects how freelancer, but never in agencies. At 2014 I returned to study web development and update my knowledges. Since then, I never stopped.  
-
-Nowadays I work as Full Stack Javascript Developer, home office. In addition to developing some projects as a freelancer, in front-end projects or web apps with MEAN Stack, Vue.js and Ionic. Always looking for personal and professional growth.
+My first contact with HTML and CSS was when I was 16 years old. But, my professional career started as IT Technical Support, with the same age. At the same time, I developed some web projects how freelancer, but never in agencies. At 2014 I returned to study web development and update my knowledges. Since then, I never stopped!
 
 
 ## Skills  
@@ -39,7 +37,7 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 
 #### Tools, Frameworks, Stacks and Front End Methodologies  
 
-* AngularJS  / jQuery  / Vue.js   
+* AngularJS  / jQuery  / Vue.js / React / React Native  
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
 * [ionic](ionicframework.com)  
 * CSS Frameworks - Bootstrap  / Jeet / Bulma / Materialize / Material Design / Vuetify  
@@ -115,6 +113,10 @@ Nowadays I work as Full Stack Javascript Developer, home office. In addition to 
 
 
 ## Work Experience (Fixed Jobs)
+
+**Software Developer** - *[FEB/2020 ~ current]*  
+[FitDance](https://www.fitdance.com/)
+> Software development, from back-end to front-end and mobile.
 
 **FrontEnd Developer** - *[January/2019 ~ April/2019]*  
 [Mercado Eletronico](me.com.br)
