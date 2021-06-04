@@ -14,9 +14,9 @@
 
 ## Sobre mim  
 
-Olá, sou Ednilson Amaral! Tenho 28 anos, resido em Itapeva/SP e trabalho como **Software Developer** na [FitDance](https://www.fitdance.com/). Sou pai do baby boy Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries (geek detected). Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
+Olá, sou Ednilson Amaral! Tenho 29 anos, resido em Itapeva/SP e trabalho como **Desenvolvedor Full Stack Javascript** na [FitDance](https://www.fitdance.com/). Sou pai do baby boy Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries (geek detected). Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
 
-O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendendo coisas novas.
+O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendo coisas novas.
 
 Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, nada melhor que trabalhar em equipe para compartilharmos conhecimento e experiências em prol de sempre evoluirmos como pessoa e profissionais.
 
@@ -36,9 +36,10 @@ Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha c
 
 #### Ferramentas, Frameworks, Stacks e Metodologias Fron-End  
 
-* AngularJS  / jQuery  / Vue.js / React / React Native  
+* AngularJS  / jQuery  / Vue.js / React
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
 * [Ionic 2+](ionicframework.com)  
+* React Native  
 * Frameworks CSS - Bootstrap  / Jeet   
 * Geradores Estáticos - Jekyll   
 * Template Engine - Jade   
@@ -117,7 +118,7 @@ Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha c
 
 ## Experiências Profissionais
 
-**Software Developer** - *[FEV/2020 ~ atual]*  
+**Desenvolvedor Full Stack Javascript** - *[FEV/2020 ~ atual]*  
 [FitDance](https://www.fitdance.com/)
 > Desenvolvimento de softwares, desde back-end até front-end e mobile.
 
