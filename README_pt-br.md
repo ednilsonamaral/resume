@@ -40,7 +40,7 @@ Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha c
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
 * [Ionic 2+](ionicframework.com)  
 * React Native  
-* Frameworks CSS - Bootstrap  / Jeet   
+* CSS Frameworks - Bootstrap  / Jeet / Bulma / Materialize / Material Design / Vuetify  
 * Geradores Estáticos - Jekyll   
 * Template Engine - Jade   
 * Préprocessadores CSS - SASS  / Stylus   
@@ -61,17 +61,16 @@ Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha c
 
 * DigitalOcean  
 * Heroku  
-* MongoLab  
-* AWS Beanstalk
+* MongoLab
 
 
 ### Banco de Dados - Relacional e NoSQL  
 
-* MySQL
+* MySQL  
 * SQLite   
-* MongoDB  / Mongoose   
-* SQL Server e SQL Express  
 * Firebase  
+* MongoDB  / Mongoose   
+* SQL Server / SQL Express  
 * PostgreSQL
 
 
@@ -85,6 +84,7 @@ Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha c
 * Git  
 * GitHub  
 * GitHub Pages  
+* GitHub Actions  
 * BitBucket  
 * GitLab  
 * CD/CI
@@ -101,6 +101,11 @@ Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha c
 
 * Lean Canvas  
 * Business Model Canvas
+
+### Analise de Dados
+
+* Klipfolio  
+* Redash
 
 
 ### IT Service Management (ITSM)  

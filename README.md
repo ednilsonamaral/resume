@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello, folks! I'm Ednilson Amaral, 28 years old, **Software Developer** at [FitDance](https://www.fitdance.com/). Father of baby boy Rodrigo; BJJ Athlete; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
+Hello, folks! I'm Ednilson Amaral, 29 years old, **Software Developer** at [FitDance](https://www.fitdance.com/). Father of baby boy Rodrigo; BJJ Athlete; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
 
 I love everything related to web, agile development, readable coding, semantic and reusable. Writing codes without losing my sanity. I love projects with solid and robust architectures, well organized. Today, I work with front-end development, but study a lot for work with MEAN Stack and Ionic in a near future.  
 
@@ -37,24 +37,25 @@ My first contact with HTML and CSS was when I was 16 years old. But, my professi
 
 #### Tools, Frameworks, Stacks and Front End Methodologies  
 
-* AngularJS  / jQuery  / Vue.js / React / React Native  
+* AngularJS  / jQuery  / Vue.js / React
 * [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
-* [ionic](ionicframework.com)  
+* [Ionic 2+](ionicframework.com)  
+* React Native  
 * CSS Frameworks - Bootstrap  / Jeet / Bulma / Materialize / Material Design / Vuetify  
-* Static Generators - Jekyll   
-* Template Engine - Pug  
-* CSS Preprocessors - SASS  / Stylus   
+* Geradores Estáticos - Jekyll   
+* Template Engine - Jade   
+* Préprocessadores CSS - SASS  / Stylus   
 * Mobile First / Responsive Web Design  
 * Atomic Design   
 * CMS - Wordpress  
 * JS Task Runners - Gulp  / NPM Scripts   
 * Bundles - Webpack  
-* Unit Tests - TDD
+* Testes Unitários - TDD
 
 
 ### Back-End  
 
-* NodeJS / Express.js / Hapi.js
+* NodeJS / Express.js / Hapi.js / TypeScript
 
 
 #### Deploy  
@@ -68,8 +69,10 @@ My first contact with HTML and CSS was when I was 16 years old. But, my professi
 
 * MySQL  
 * SQLite   
+* Firebase  
 * MongoDB  / Mongoose   
-* SQL Server and SQL Express
+* SQL Server and SQL Express  
+* PostgreSQL
 
 
 ### Version Control Systems  
@@ -77,8 +80,10 @@ My first contact with HTML and CSS was when I was 16 years old. But, my professi
 * Git  
 * GitHub  
 * GitHub Pages  
+* GitHub Actions  
 * BitBucket  
-* GitLab
+* GitLab  
+* CD/CI
 
 
 ### Agile Methodologies  
@@ -96,7 +101,8 @@ My first contact with HTML and CSS was when I was 16 years old. But, my professi
 
 ### Data Analysis
 
-* Klipfolio
+* Klipfolio  
+* Redash
 
 
 ### IT Service Management (ITSM)  
