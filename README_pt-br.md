@@ -14,7 +14,7 @@
 
 ## Sobre mim  
 
-Olá, sou Ednilson Amaral! Tenho 29 anos, resido em Itapeva/SP e trabalho como **Desenvolvedor Full Stack Javascript** na [FitDance](https://www.fitdance.com/). Sou pai do baby boy Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries (geek detected). Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
+Olá, sou Ednilson Amaral! Tenho 29 anos, resido em Itapeva/SP e trabalho como **Desenvolvedor Full Stack Javascript**. Sou pai do baby boy Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries (geek detected). Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
 
 O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendo coisas novas.
 
@@ -123,7 +123,12 @@ Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha c
 
 ## Experiências Profissionais
 
-**Desenvolvedor Full Stack Javascript** - *[FEV/2020 ~ atual]*  
+**Desenvolvedor Full Stack Javascript** - *[JUN/2021 ~ atual]*  
+[eventsLAB](https://eventslab.com.br/)
+> Desenvolvimento de softwares, desde back-end até front-end (Node.js, Express, Typescript, MySQL, Redis, GCP, React, etc).
+
+
+**Desenvolvedor Full Stack Javascript** - *[FEV/2020 ~ JUN/2021]*  
 [FitDance](https://www.fitdance.com/)
 > Desenvolvimento de softwares, desde back-end até front-end e mobile.
 

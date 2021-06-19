@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello, folks! I'm Ednilson Amaral, 29 years old, **Software Developer** at [FitDance](https://www.fitdance.com/). Father of baby boy Rodrigo; BJJ Athlete; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
+Hello, folks! I'm Ednilson Amaral, 29 years old, **Software Developer (Full Stack Javascript)**. Father of baby boy Rodrigo; BJJ Athlete; a NFL lover; addicted to japanese food, games (PS4 :p), UFC and codes, a lot of codes!  
 
 I love everything related to web, agile development, readable coding, semantic and reusable. Writing codes without losing my sanity. I love projects with solid and robust architectures, well organized. Today, I work with front-end development, but study a lot for work with MEAN Stack and Ionic in a near future.  
 
@@ -120,9 +120,16 @@ My first contact with HTML and CSS was when I was 16 years old. But, my professi
 
 ## Work Experience (Fixed Jobs)
 
-**Software Developer** - *[FEB/2020 ~ current]*  
+
+**Software Developer** - *[JUN/2021 ~ current]*  
+[eventsLAB](https://eventslab.com.br/)
+> Software development, from back-end to front-end. (Node.js, Express, Typescript, MySQL, Redis, GCP, React, etc).
+
+
+**Software Developer** - *[FEB/2020 ~ JUN/2021]*  
 [FitDance](https://www.fitdance.com/)
 > Software development, from back-end to front-end and mobile.
+
 
 **FrontEnd Developer** - *[January/2019 ~ April/2019]*  
 [Mercado Eletronico](me.com.br)
