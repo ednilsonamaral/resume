@@ -1,136 +1,52 @@
-# Ednilson Amaral
+# Ednilson de Almeida Amaral
 
 
-**Localização:** Itapeva - SP - Brasil  
-**Telefone:** +55 (15) 9-9674-0359  
-**Portfolio:** [http://ednilsonamaral.github.io/](http://ednilsonamaral.github.io/portfolio)  
+**Localização:** São Paulo - SP - Brasil  
+**Telefone:** +55 (11) 944748831  
 **Email:** [ednilsonamaral.ti@gmail.com](mailto:ednilsonamaral.ti@gmail.com)  
-**Skype:** ednilson_amaral  
 **GitHub:** ednilsonamaral  
 **Telegram:** @ednilsonamaral  
 **LinkedIn:** [https://br.linkedin.com/in/ednilson-amaral-02a984106](https://br.linkedin.com/in/ednilson-amaral-02a984106)  
-**Facebook:** [https://www.facebook.com/ednilson.amaral](https://www.facebook.com/ednilson.amaral)  
 
 
 ## Sobre mim  
 
-Olá, sou Ednilson Amaral! Tenho 29 anos, resido em Itapeva/SP e trabalho como **Desenvolvedor Full Stack Javascript**. Sou pai do baby boy Rodrigo, apaixonado por tudo que é relacionado à tecnologias web, e, também, sou atleta de Jiu Jitsu, amante de NFL, comida japonesa, UFC, games, filmes, séries (geek detected). Aqui você pode ver um pouco sobre mim, sobre minhas habilidades, meu blog, portfolio e projetos pessoais.
-
-O que mais me atrai são projetos desafiadores, o que não consigo fazer e vou atrás de como fazer da maneira correta, com as melhores práticas e sempre aprendendo coisas novas.
-
-Tenho facilidade em fazer novas amizades e ter comunicação entre equipes, e, nada melhor que trabalhar em equipe para compartilharmos conhecimento e experiências em prol de sempre evoluirmos como pessoa e profissionais.
-
-Sempre estou estudando algo novo, e nunca canso de estudar. Afinal, o que aprendemos é o único capital que não perdemos, ninguém pode tirar isso de nós!
-
-Meu primeiro contato com HTML e CSS foi quando eu tinha 16 anos. Porém, minha carreira profissional começou como Suporte de TI, na mesma idade. Paralelamente, eu desenvolvia projetos web como freelancer. Durante a faculdade, devido a grande demanda de tempo que me custou trabalhar e estudar ao mesmo tempo, deixei um pouco de lado o desenvolvimento web e foquei meus estudos na faculdade. Em 2014, eu retornei com força todal ao desenvolvimento web e me atualizei do que havia perdido. Desde então, nunca mais parei!
+Desenvolvedor Backend NodeJS/Javascript, atuando desde 2015 na construção de novas plataformas e soluções web. Desafior como desenvolvimento de APIs legadas e de microsserviços com Node.js, Express, Typescript, NestJS; bancos de dados relacionais e NoSQL (MySQL, PostegreSQL, MongoDB, Redis). Também tenho experiência com AWS e GCP, CI/CD, Lambdas, Serverless.
 
 
-## Habilidades e Conhecimentos Técnicos  
+## Habilidades (Stacks)  
 
-### Front-End  
-
-* HTML/HTML5  
-* CSS/CSS3  
-* JavaScript
-
-
-#### Ferramentas, Frameworks, Stacks e Metodologias Fron-End  
-
-* AngularJS  / jQuery  / Vue.js / React
-* [MEAN](https://github.com/Webschool-io/be-mean-instagram)  
-* [Ionic 2+](ionicframework.com)  
-* React Native  
-* CSS Frameworks - Bootstrap  / Jeet / Bulma / Materialize / Material Design / Vuetify  
-* Geradores Estáticos - Jekyll   
-* Template Engine - Jade   
-* Préprocessadores CSS - SASS  / Stylus   
-* Mobile First / Responsive Web Design  
-* Atomic Design   
-* CMS - Wordpress  
-* JS Task Runners - Gulp  / NPM Scripts   
-* Bundles - Webpack  
-* Testes Unitários - TDD
-
-
-### Back-End  
-
-* NodeJS / Express.js / Hapi.js / TypeScript
-
-
-#### Deploy  
-
-* DigitalOcean  
-* Heroku  
-* MongoLab
-
-
-### Banco de Dados - Relacional e NoSQL  
-
-* MySQL  
-* SQLite   
-* Firebase  
-* MongoDB  / Mongoose   
-* SQL Server / SQL Express  
-* PostgreSQL
-
-
-#### ORM
-
-* Sequelize
-
-
-### Sistemas de Controle de Versão  
-
-* Git  
-* GitHub  
-* GitHub Pages  
-* GitHub Actions  
-* BitBucket  
-* GitLab  
-* CD/CI
-
-
-### Metodologias Ágeis  
-
-* Scrum   
-* Extreme Programming   
-* Kanban
-
-
-### Negócios e Startup  
-
-* Lean Canvas  
-* Business Model Canvas
-
-### Analise de Dados
-
-* Klipfolio  
-* Redash
-
-
-### IT Service Management (ITSM)  
-
-* ITIL Foundation (*não tenho certificado, mas tenho conhecimento dos fundamentos e funcionalidades básicas, e como aplicá-los*)
-
-
-### Sistemas Operacionais  
-
-* Comandos Unix  
-* Linux (*Mint, Ubuntu, incluindo Ubuntu Server para ferramentas como Squid e Samba, Debian :heart:*)  
-* Windows (*desde o Windows ME até as versões mais recentes, incluindo Windows Server para ferramentas como AD e proxy*)  
-* Mac OS X
+- Nodejs; 
+- Javascript;  
+- Typescript;  
+- Express;  
+- Microserviços;  
+- MySQL;  
+- MongoDB;  
+- PostgreSQL;  
+- Redis;  
+- NestJS;  
+- CI/CD;  
+- AWS Lambdas;  
+- Serverless;  
+- AWS ECS + Fargate;  
+- Google Cloud Platform;  
+- Jenkins;  
+- Jest;
+- Scrum;  
+- Kanban.
 
 
 ## Experiências Profissionais
 
-**Desenvolvedor Full Stack Javascript** - *[JUN/2021 ~ atual]*  
+**Desenvolvedor Full Stack Javascript** - *[JUN/2021 ~ ABR/2022]*  
 [eventsLAB](https://eventslab.com.br/)
-> Desenvolvimento de softwares, desde back-end até front-end (Node.js, Express, Typescript, MySQL, Redis, GCP, React, etc).
+> Desenvolvimento de softwares, desde back-end até front-end (Node.js, Express, Typescript, MySQL, Redis, GCP, React, etc), porém com foco maior no backend. Onde os principais trabalhos foram migrar o sistema legado para novos microserviços, bem como manutenções no legado. Além de migração de todo o backend e banco de dados da Google Cloud Platform para a AWS, e criação de jobs com AWS Lambdas.
 
 
 **Desenvolvedor Full Stack Javascript** - *[FEV/2020 ~ JUN/2021]*  
 [FitDance](https://www.fitdance.com/)
-> Desenvolvimento de softwares, desde back-end até front-end e mobile.
+> Desenvolvimento de softwares, desde back-end até front-end e mobile. Onde o desafio era sair de um sistema (back) legado e criar microserviços.
 
 
 **FrontEnd Developer** - *[JAN/2019 ~ ABR/2019]*  
@@ -178,10 +94,6 @@ Colégio Leme Presbiteriano de Itapeva
 > Atendimento ao público; trabalho e monitoramento de sistemas ERP; abertura e fechamento de caixa; desenvolvimento e fechamento de Ficha 100; criação e manutenção de planilhas de RH; entre outras atividades.
 
 
-**Empreendimento (startup) FAIL** - *[NOV/2012 ~ NOV/2013]*  
-> Esse periodo, junto com mais dois colegas, tentamos abrir uma startup de desenvolvimento de software. Porém, não sabiamos nada sobre empreendedorimos, apenas sobre PHP. E pensavamos que o sistema deveria estar 100%, e não sabiamos o que era um simples MVP. Resultado? Fechamos as portas por falta de experiência. Fica aqui, os erros aprendidos e nunca mais serão cometidos!
-
-
 **Estagiário de Sistemas de Informação** - *[OUT/2010 ~ OUT/2012]*  
 Secretaria Municipal da Educação de Itapeva  
 > Atendimento ao público; desenvolvimento de soluções ERP voltadas para a Gestão Escolar; suporte de primeiro nível; treinamento a novos usuários de soluções ERP.
@@ -210,19 +122,3 @@ FAIT - Faculdade de Ciências Sociais e Agrárias de Itapeva
 
 **Técnico em Hardware**, concluído em 2008.  
 CENAIC - Itapeva
-
-
-## Cursos Ministrados
-
-* [Vue.js na Prática](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5), pela [Webschool.io](http://webschool.io/), juntamente com o [Igor Luiz](https://github.com/Halfeld), em 2018.
-
-
-## Cursos  
-
-* Gestão Estratégica de TI - ITIL, pela Escola Virtual Fundação Bradesco;  
-* Apreender a Empreender, pelo EaD Sebrae;  
-* Iniciando um Pequeno e Grande Negócio, pelo EaD Sebrae;  
-* Planejamento Estratégico, pela Endeavor;  
-* MEI - Micro Empreendedor Individual, pelo EaD Sebrae;  
-* [Be MEAN](https://github.com/Webschool-io/be-mean-instagram) (em andamento);  
-* JavaScript Road Trip, pela CodeSchool.
